@@ -1,452 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <string>მორისკები</string>
-  <string>მინარეთიდან</string>
-  <string>ქალღმერთთაგანი</string>
-  <string>მუსაგეტი</string>
-  <string>გამოფენს</string>
-  <string>თეოლოგიისა</string>
-  <string>მულაჟების</string>
-  <string>ზანგისა</string>
-  <string>თეთრკანიანის</string>
-  <string>მულდა</string>
-  <string>კაზმის</string>
-  <string>ჩასატვირთად</string>
-  <string>საბრძმედე</string>
-  <string>დაძახული</string>
-  <string>საქარგავად</string>
-  <string>მრავალჯერობას</string>
-  <string>სინუსოიდისაგან</string>
-  <string>მულტიპლიკაციის</string>
-  <string>მრავალობიექტივიანი</string>
-  <string>გასამრავლებელი</string>
-  <string>ციკლონისაგან</string>
-  <string>მულჩირებისათვის</string>
-  <string>მულჩირება</string>
-  <string>სარეველებისაგან</string>
-  <string>შეუნარჩუნონ</string>
-  <string>დამულჩვა</string>
-  <string>დაბალზამებით</string>
-  <string>მუმიებად</string>
-  <string>მუმიე</string>
-  <string>ფისისმაგვარი</string>
-  <string>სამკუნალოდ</string>
-  <string>მუმიფიკაცია</string>
-  <string>მუმიად</string>
-  <string>ურჭობენ</string>
-  <string>ჰილზის</string>
-  <string>უთამბაქო</string>
-  <string>იდებენ</string>
-  <string>სატუჩე</string>
-  <string>მუნიციპალიზაცია</string>
-  <string>მუნიციპალიზება</string>
-  <string>მუნიციპალიტეტთან</string>
-  <string>საკმეველად</string>
-  <string>ზმირინი</string>
-  <string>მუსავატელიდა</string>
-  <string>მუსავატისტი</string>
-  <string>მუსავატის</string>
-  <string>მუსიო</string>
-  <string>ყუძნის</string>
-  <string>მუსკულატურა</string>
-  <string>მუსლიმანიდა</string>
-  <string>მუსულმანობა</string>
-  <string>აშელეს</string>
-  <string>სიცხეგამძლე</string>
-  <string>გასახურებლად</string>
-  <string>მუფთა</string>
-  <string>შესაყოფი</string>
-  <string>მუშკეტით</string>
-  <string>მუშტრა</string>
-  <string>დაზეპირებაზე</string>
-  <string>ომოს</string>
-  <string>მუჰაფაზა</string>
-  <string>კაბალა</string>
-  <string>კაბალეტა</string>
-  <string>მოსაზიდავად</string>
-  <string>პილოტისა</string>
-  <string>პოლიკლინიკასა</string>
-  <string>როიალისაგან</string>
-  <string>კაბლოგრამა</string>
-  <string>კოფო</string>
-  <string>კაბუკი</string>
-  <string>ოფიცრებად</string>
-  <string>მოჭადრაკეს</string>
-  <string>პატრია</string>
-  <string>საფრესკო</string>
-  <string>კაცისმკვლელზე</string>
-  <string>ულანები</string>
-  <string>ჰუსარები</string>
-  <string>კომკავშირის</string>
-  <string>გრუნტით</string>
-  <string>ნამქერისა</string>
-  <string>კავალკადა</string>
-  <string>მოხაჭოების</string>
-  <string>ავიაბომბებისაგან</string>
-  <string>შეჯავშნული</string>
-  <string>ესტრადითა</string>
-  <string>განზოგადებაც</string>
-  <string>კაზუისტიკაში</string>
-  <string>კაზუისტიკა</string>
-  <string>სქოლასტიკასა</string>
-  <string>ფროიდიზმში</string>
-  <string>კათედრებიდან</string>
-  <string>კათედრალურიეკლესია</string>
-  <string>კათეტერიზაცია</string>
-  <string>კათეტერის</string>
-  <string>კათოლიციზმს</string>
-  <string>კათოლიციზმთან</string>
-  <string>კათოლიკეებთან</string>
-  <string>ესკიმოსებში</string>
-  <string>ალეუტებსა</string>
-  <string>კაინოზოურიერა</string>
-  <string>მეოთხეულ</string>
-  <string>ოთახისმაგვარი</string>
-  <string>მალაიურიდან</string>
-  <string>კაკაველა</string>
-  <string>თესლისგანაც</string>
-  <string>კაკოფონია</string>
-  <string>არაკეთილხმოვანება</string>
-  <string>კალამბურების</string>
-  <string>თხზვის</string>
-  <string>ლილვებს</string>
-  <string>რეზინს</string>
-  <string>სიგლუვის</string>
-  <string>კალდერა</string>
-  <string>განივკვეთისა</string>
-  <string>კალევალა</string>
-  <string>იულიუსი</string>
-  <string>კალენდებამდე</string>
-  <string>ცალენდას</string>
-  <string>კალენდების</string>
-  <string>კალვინის</string>
-  <string>წყალჟანგი</string>
-  <string>კალიბრსაზომი</string>
-  <string>კალიბრი</string>
-  <string>კალიოპე</string>
-  <string>ორფევსის</string>
-  <string>კალისტო</string>
-  <string>სასუქებად</string>
-  <string>რადიაქტიული</string>
-  <string>კალკია</string>
-  <string>კალკულაციას</string>
-  <string>კალკულირება</string>
-  <string>თავფეხიანების</string>
-  <string>სასაქმებელ</string>
-  <string>მხურვალმედეგობის</string>
-  <string>კალორიმეტრია</string>
-  <string>თბოტევადობის</string>
-  <string>კალორიმეტრიულიბომბი</string>
-  <string>კალორიმეტრის</string>
-  <string>ნუჟრი</string>
-  <string>მოტეხილობის</string>
-  <string>კალცეფილებიდა</string>
-  <string>უროტროპინის</string>
-  <string>კალცინა</string>
-  <string>კალცინაცია</string>
-  <string>კალცინირება</string>
-  <string>კირქვისა</string>
-  <string>კირშპატი</string>
-  <string>ლაქშმას</string>
-  <string>კამარილია</string>
-  <string>კამბალა</string>
-  <string>ლაფანსა</string>
-  <string>კამბრიულისისტემა</string>
-  <string>კამბრიუმის</string>
-  <string>წყებები</string>
-  <string>ქვაბითურთ</string>
-  <string>კამენა</string>
-  <string>რაბის</string>
-  <string>ველოსიპედისა</string>
-  <string>სალტის</string>
-  <string>რეზინისა</string>
-  <string>ტელეაპარატის</string>
-  <string>კამერალისტიკა</string>
-  <string>ყუთისაგან</string>
-  <string>დარტყმისას</string>
-  <string>მსმენელებისათვის</string>
-  <string>სიმფონიისაგან</string>
-  <string>ოპერისაგან</string>
-  <string>დაჩეჩილი</string>
-  <string>კამიკაძე</string>
-  <string>ბანდიტების</string>
-  <string>კამპანილე</string>
-  <string>ჰემატოქსილინსა</string>
-  <string>პარკეტს</string>
-  <string>კამპოსიდა</string>
-  <string>კემპუსი</string>
-  <string>გაძნელდეს</string>
-  <string>ავიაბომბის</string>
-  <string>კანავალია</string>
-  <string>კანდელა</string>
-  <string>ტოტებიანი</string>
-  <string>კანელურა</string>
-  <string>პილასტრზე</string>
-  <string>კანვა</string>
-  <string>ქარგავენ</string>
-  <string>ამოგებით</string>
-  <string>კაციჭამიაობა</string>
-  <string>მხეცობა</string>
-  <string>კანისტრა</string>
-  <string>სისხლძარღვებიდან</string>
-  <string>კოლოფონი</string>
-  <string>მოკლენიჩბიანი</string>
-  <string>დოგმატი</string>
-  <string>იერარქის</string>
-  <string>პოლიფონიურ</string>
-  <string>აჟღერებენ</string>
-  <string>თავთხელში</string>
-  <string>კანონიზაცია</string>
-  <string>კანოტიე</string>
-  <string>კანსიონერო</string>
-  <string>კანსიონეირუ</string>
-  <string>კანტაბილე</string>
-  <string>მღერადად</string>
-  <string>კანტიანელობის</string>
-  <string>კანტიანელობა</string>
-  <string>მოძღვრებიდან</string>
-  <string>კანტილენა</string>
-  <string>კანტონთან</string>
-  <string>კანტონალური</string>
-  <string>ორგანისტი</string>
-  <string>სახბანკის</string>
-  <string>კანულა</string>
-  <string>კვერებად</string>
-  <string>კანცელარიულად</string>
-  <string>ქაღალდებისათვის</string>
-  <string>დოკუმენტებისათვის</string>
-  <string>დაფრახტული</string>
-  <string>გასლის</string>
-  <string>დამფრახტველს</string>
-  <string>კანცეროლოგია</string>
-  <string>ავთვისებიან</string>
-  <string>ევანგელიკურ</string>
-  <string>რანგთა</string>
-  <string>ტაბელის</string>
-  <string>რაინდულ</string>
-  <string>კანცონეტა</string>
-  <string>დამკვრელთაგან</string>
-  <string>კონტრაბანდით</string>
-  <string>ბეწვისებური</string>
-  <string>ყვლეფით</string>
-  <string>ჩარხისა</string>
-  <string>მეთაურებად</string>
-  <string>პილასტრის</string>
-  <string>მინერვასა</string>
-  <string>კაპიტულაციას</string>
-  <string>არათანასწორუფლებიანი</string>
-  <string>სინესტისა</string>
-  <string>აჩემება</string>
-  <string>საქცევები</string>
-  <string>კაპრონს</string>
-  <string>შემცვლელებს</string>
-  <string>ჭებში</string>
-  <string>სერჟანტთა</string>
-  <string>სერჟანტებსა</string>
-  <string>კაპუტ</string>
-  <string>ანაფორაზე</string>
-  <string>მიკერებულ</string>
-  <string>კაპიუშონს</string>
-  <string>კაპიუშონივით</string>
-  <string>კარაბინით</string>
-  <string>კარაველა</string>
-  <string>ფოცხვერი</string>
-  <string>ყარაკული</string>
-  <string>კარაკულჩა</string>
-  <string>ულუზო</string>
-  <string>კარამბოლინა</string>
-  <string>ნაწარმისათვის</string>
-  <string>ჩარტყმაზე</string>
-  <string>მოწყვლად</string>
-  <string>არტერიაში</string>
-  <string>დააშავონ</string>
-  <string>კარბიურირება</string>
-  <string>სათბობში</string>
-  <string>ნახშირბადოვანი</string>
-  <string>მცირენახშირბადოვანი</string>
-  <string>ცემენტაციისათვის</string>
-  <string>შესასუნთქავად</string>
-  <string>ვენტილაციას</string>
-  <string>კუპრისაგან</string>
-  <string>ფორმალინისა</string>
-  <string>ფენოლი</string>
-  <string>კარბონადო</string>
-  <string>გასაბურღავად</string>
-  <string>საბურღავად</string>
-  <string>კარბონატებისაგან</string>
-  <string>მინერალებით</string>
-  <string>კარბონიზაცია</string>
-  <string>კარბონირება</string>
-  <string>ნიტროგლიცერინს</string>
-  <string>კაჟბადისა</string>
-  <string>ფენებისა</string>
-  <string>ფურუნკულის</string>
-  <string>კარდანულიგადაცემა</string>
-  <string>ღერძისაკენ</string>
-  <string>კარდიოგენური</string>
-  <string>აგონიაში</string>
-  <string>კარდიოგრაფია</string>
-  <string>კარდიოლოგიის</string>
-  <string>სარკმლებიანი</string>
-  <string>კართეზიელებიდა</string>
-  <string>შარტრეზის</string>
-  <string>კარიბუ</string>
-  <string>არაღრმად</string>
-  <string>დაწინაურებისაკენ</string>
-  <string>კარიიონიდა</string>
-  <string>კარილიონი</string>
-  <string>კარიკატურების</string>
-  <string>კარიოგამია</string>
-  <string>კოპულაციის</string>
-  <string>კარიოლოგია</string>
-  <string>კარიოპლაზმა</string>
-  <string>კარმანიოლა</string>
-  <string>ასაყოლებელი</string>
-  <string>კარმელზე</string>
-  <string>ბუჟღენდისაგან</string>
-  <string>მწერია</string>
-  <string>კარნაცია</string>
-  <string>კალიუმისა</string>
-  <string>კარნოს</string>
-  <string>მოსახვევებს</string>
-  <string>მეროვინგები</string>
-  <string>ჭრილების</string>
-  <string>სტაფილოში</string>
-  <string>პომიდორში</string>
-  <string>კარპოლოგია</string>
-  <string>თაბაშირების</string>
-  <string>ქვამარილისა</string>
-  <string>კარსტოლოგია</string>
-  <string>კარსტის</string>
-  <string>კარსტთან</string>
-  <string>ცარტე</string>
-  <string>კარტეზიანელობის</string>
-  <string>კარტეზიანელობა</string>
-  <string>კარტელიზაცია</string>
-  <string>კარტელებად</string>
-  <string>გაჭუჭყიანებისაგან</string>
-  <string>ფინდიხი</string>
-  <string>კარტინგის</string>
-  <string>კარტოგრამა</string>
-  <string>კარტოგრაფია</string>
-  <string>კარტოდიაგრამა</string>
-  <string>კარტომეტრია</string>
-  <string>დიდფორმატიანი</string>
-  <string>კართუზიელები</string>
-  <string>სიგელთა</string>
-  <string>ხვიებით</string>
-  <string>გაუხსნელ</string>
-  <string>დაკიდებულია</string>
-  <string>კარუსელური</string>
-  <string>კარუსელურიჩარხი</string>
-  <string>დასამწყვდევად</string>
-  <string>კარცინოლოგია</string>
-  <string>კიბოსნაირებს</string>
-  <string>შრიფტისათვის</string>
-  <string>აპოლონისაგან</string>
-  <string>არანამდვილად</string>
-  <string>ფირფიტებისათვის</string>
-  <string>კინოფირისათვის</string>
-  <string>დაბალბორტებიანი</string>
-  <string>კასეტურიმაგნიტოფონი</string>
-  <string>კასეტში</string>
-  <string>აცტეკებისა</string>
-  <string>კასიოპე</string>
-  <string>კასკა</string>
-  <string>გადმომჩქეფარე</string>
-  <string>სიმღერითურთ</string>
-  <string>კინომსახიობის</string>
-  <string>ტრიუკებს</string>
-  <string>კასკო</string>
-  <string>აღკაზმულობის</string>
-  <string>ცისტერნების</string>
-  <string>განკერძოებულებას</string>
-  <string>კასტანიეტა</string>
-  <string>ჯიმჯიმი</string>
-  <string>სატკრციალო</string>
-  <string>საჯიგველი</string>
-  <string>ხშირხაოიანი</string>
-  <string>კასტრირებული</string>
-  <string>დასაჭურისებული</string>
-  <string>კასტრაცია</string>
-  <string>კასტრირება</string>
-  <string>სქესო</string>
-  <string>დაკოდვა</string>
-  <string>დასაჭურისება</string>
-  <string>კასტისათვის</string>
-  <string>ანაბოლიზმი</string>
-  <string>კატაკანა</string>
-  <string>კორიდორები</string>
-  <string>კატალაზა</string>
-  <string>კატალეფსია</string>
-  <string>ტაცება</string>
-  <string>კატალექტიკა</string>
-  <string>ავიამზიდზე</string>
-  <string>ასატყორცნად</string>
-  <string>ამოსატყორცნად</string>
-  <string>კატაპულტით</string>
-  <string>შესუსტებასა</string>
-  <string>კათარები</string>
-  <string>კატატონია</string>
-  <string>ერთარსება</string>
-  <string>ელექტროფორეზის</string>
-  <string>ავტოსტრადებზე</string>
-  <string>კატაცუ</string>
-  <string>მაგიდასავით</string>
-  <string>კატენაჩო</string>
-  <string>კატეხუ</string>
-  <string>სათრიმლავად</string>
-  <string>კათოდისაკენ</string>
-  <string>კაუდილიო</string>
-  <string>კაუზალგია</string>
-  <string>კაუზატიური</string>
-  <string>კაუზატიურიზმნა</string>
-  <string>ზმნებია</string>
-  <string>კაულიფლორია</string>
-  <string>ტროპიკულმა</string>
-  <string>მაჯაღვერმა</string>
-  <string>ქაცვმა</string>
-  <string>შესაშვებ</string>
-  <string>კაუსტიკა</string>
-  <string>შემოვლებულია</string>
-  <string>ტუტეა</string>
-  <string>დამარღვევლად</string>
-  <string>რძისებრი</string>
-  <string>შორენკეცი</string>
-  <string>ჰეხის</string>
-  <string>უფოთლებო</string>
-  <string>შემოსახვევი</string>
-  <string>კაშპერლე</string>
-  <string>კაშპერლი</string>
-  <string>კაშპო</string>
-  <string>კაჩუჩა</string>
-  <string>კახექსია</string>
-  <string>კეგლს</string>
-  <string>მოარტყან</string>
-  <string>წააქციონ</string>
-  <string>თამაშობისათვის</string>
-  <string>კეგელი</string>
-  <string>რეზინისძირიანი</string>
-  <string>კელვინის</string>
-  <string>გამონაზარდი</string>
-  <string>ინდოევროპელი</string>
-  <string>ესახლნენ</string>
-  <string>კელტოლოგია</string>
-  <string>ავტოტურისტებისათვის</string>
-  <string>კემპუსიდა</string>
-  <string>შტატბში</string>
-  <string>ბალბისებრთა</string>
-  <string>უკანებთან</string>
-  <string>გამმართველია</string>
-  <string>გიმნაზიებში</string>
-  <string>ბეტონისა</string>
-  <string>მეთუნეობის</string>
-  <string>ძელაკის</string>
-  <string>კერატოპლასტიკა</string>
-  <string>სამთავიანი</string>
-  <string>ჭაბურღილიდან</string>
-  <string>სვეტოვანი</string>
-  <string>კერნერით</string>
   <string>მოსანიშნავად</string>
   <string>მონიშვნის</string>
   <string>მრავალკუთხოვანი</string>
@@ -3279,7 +2832,6 @@
   <string>გასანაყოფიერებლად</string>
   <string>სიღრმული</string>
   <string>სიენეს</string>
-  <string>შყდნდ</string>
   <string>სისიფეს</string>
   <string>სიკლიდა</string>
   <string>სიკომორო</string>
@@ -9247,7 +8799,6 @@
   <string>გულზედაწყობა</string>
   <string>წრმართული</string>
   <string>კულტურკამპფი</string>
-  <string>ჯწ</string>
   <string>სამთავროებს</string>
   <string>სკოლებზე</string>
   <string>რეპრესიებმა</string>
@@ -11868,7 +11419,6 @@
   <string>მომღერალა</string>
   <string>კონფიქსი</string>
   <string>მემღერე</string>
-  <string>მსჯ</string>
   <string>პროდუქტიულია</string>
   <string>სახიობითა</string>
   <string>აბსტრაქტულობის</string>
@@ -11877,7 +11427,6 @@
   <string>სახედავი</string>
   <string>ქეგლ</string>
   <string>კონფიქსური</string>
-  <string>სწ</string>
   <string>სახიობანი</string>
   <string>მახიობელი</string>
   <string>მესახიე</string>
@@ -11971,7 +11520,6 @@
   <string>ლექსემებს</string>
   <string>მუშაითი</string>
   <string>თეატრონად</string>
-  <string>ნშტ</string>
   <string>ზმნისგან</string>
   <string>ვეფხ</string>
   <string>ერისაგანნი</string>
@@ -12085,7 +11633,6 @@
   <string>იაბერი</string>
   <string>სახესხვაობით</string>
   <string>ბადერ</string>
-  <string>ტრ</string>
   <string>სახიობელი</string>
   <string>ლექსემათა</string>
   <string>გასტროლი</string>
@@ -12102,7 +11649,6 @@
   <string>სულითადი</string>
   <string>სახილველს</string>
   <string>სახილველით</string>
-  <string>შჯ</string>
   <string>მოციქ</string>
   <string>პრეფიქსით</string>
   <string>მაწარმოებელია</string>
@@ -12351,18 +11897,15 @@
   <string>სტადის</string>
   <string>ერთმნეთის</string>
   <string>ჰჯუ</string>
-  <string>ჰჯ</string>
   <string>ბჰქაუჯა</string>
   <string>ეჯვცცუს</string>
   <string>ტწჯვუ</string>
   <string>ჯთეპოსოცუჯმწუ</string>
-  <string>წჯს</string>
   <string>აჯპო</string>
   <string>სტადიწუ</string>
   <string>სეკაპევტე</string>
   <string>სეჯ</string>
   <string>პცოიჯოუ</string>
-  <string>ჰჯსჰ</string>
   <string>სტადიჯოუს</string>
   <string>ლათინურშია</string>
   <string>ქართულშივე</string>
@@ -12392,7 +11935,6 @@
   <string>თეატრამდე</string>
   <string>მონეტებსა</string>
   <string>მონაპოვრებთან</string>
-  <string>ჯლ</string>
   <string>ნაყოფიერებისადმი</string>
   <string>ლიმურყვამალ</string>
   <string>ჭიმხაშ</string>
@@ -12821,7 +12363,6 @@
   <string>მისანთა</string>
   <string>აღმოსაცნობელი</string>
   <string>მოსახილველითა</string>
-  <string>ტჰვზ</string>
   <string>საჭურეტი</string>
   <string>მეიდანს</string>
   <string>ოსეფას</string>
@@ -12837,7 +12378,6 @@
   <string>ვნებ</string>
   <string>ბარნ</string>
   <string>ქუფრი</string>
-  <string>ზმნს</string>
   <string>სახილავად</string>
   <string>საყნოსავად</string>
   <string>ლორთქ</string>
@@ -13197,7 +12737,6 @@
   <string>განუტევობს</string>
   <string>ყოველთასავე</string>
   <string>მტირალობისა</string>
-  <string>ჩბქ</string>
   <string>გლოისა</string>
   <string>სალოსის</string>
   <string>სამკდროდ</string>
@@ -13264,20 +12803,17 @@
   <string>მაკალათიას</string>
   <string>შებანებით</string>
   <string>ლიტენტურალ</string>
-  <string>ბზ</string>
   <string>წაშენით</string>
   <string>ლისენტყუალ</string>
   <string>ღუაჟარს</string>
   <string>ლაგუანჟი</string>
   <string>ლილჭალ</string>
-  <string>ბქ</string>
   <string>ლირეჭალ</string>
   <string>ლირჭალ</string>
   <string>ლიგნე</string>
   <string>ზრუნს</string>
   <string>ჰირგს</string>
   <string>ხმადაბალს</string>
-  <string>ფშ</string>
   <string>შარაშ</string>
   <string>ზრინვას</string>
   <string>გვერეთალი</string>
@@ -13370,7 +12906,6 @@
   <string>რედუპლიცირებული</string>
   <string>ზურზუნ</string>
   <string>ზურზღული</string>
-  <string>ჟღ</string>
   <string>სონანტის</string>
   <string>დიგორულ</string>
   <string>დიგ</string>
@@ -13482,7 +13017,6 @@
   <string>თანაგუნდი</string>
   <string>დაბანაკებულ</string>
   <string>გამოსლ</string>
-  <string>ფს</string>
   <string>დამბანაკებელი</string>
   <string>საბანაკე</string>
   <string>შედარებისდა</string>
@@ -13619,7 +13153,6 @@
   <string>გალობასაც</string>
   <string>აზროვნებაა</string>
   <string>მოსაწევართმეტყებეა</string>
-  <string>ჯშ</string>
   <string>სომხურითგან</string>
   <string>დერივატები</string>
   <string>ირანულქართული</string>
@@ -13638,11 +13171,8 @@
   <string>უსსლ</string>
   <string>ძუელისიტყუაობისანი</string>
   <string>ლექსიკონნი</string>
-  <string>ბზმ</string>
   <string>ბალსზემოური</string>
-  <string>ბზქ</string>
   <string>ბალსქვემოური</string>
-  <string>რქდთხტ</string>
   <string>ქესს</string>
   <string>ავანგარდისთვის</string>
   <string>აკადემიზმი</string>
@@ -13886,8 +13416,6 @@
   <string>ხმაურა</string>
   <string>დალაგდენენ</string>
   <string>ჰუმანურის</string>
-  <string>შმდ</string>
-  <string>ჩჩჩ</string>
   <string>ღმრთაებრივი</string>
   <string>სამოწესეო</string>
   <string>ევქარისტიული</string>
@@ -13914,7 +13442,6 @@
   <string>დელლე</string>
   <string>აღთქმათა</string>
   <string>მსახურებაში</string>
-  <string>რჯლ</string>
   <string>გარდამოსვლის</string>
   <string>ლიბრო</string>
   <string>სიწმიდის</string>
@@ -14166,7 +13693,6 @@
   <string>სეპტუაგინტის</string>
   <string>ტრადიციონალიზმი</string>
   <string>ლიტურგიისათვის</string>
-  <string>შჩ</string>
   <string>კატეხიზმოში</string>
   <string>ღმრთაებრიობას</string>
   <string>ინიციაციის</string>
@@ -14782,7 +14308,6 @@
   <string>იანსენის</string>
   <string>იანსენისტური</string>
   <string>იანსენიზმის</string>
-  <string>ჟჰწჰ</string>
   <string>იაჰვისტური</string>
   <string>მონაზე</string>
   <string>ინიგო</string>
@@ -16084,7 +15609,6 @@
   <string>ინტროიტს</string>
   <string>გრადუალს</string>
   <string>მელოდიების</string>
-  <string>ტყპ</string>
   <string>ალტერა</string>
   <string>სიმპლეხ</string>
   <string>საგალობლებისა</string>
@@ -17710,7 +17234,6 @@
   <string>მონოფიზიტი</string>
   <string>ტყავისგან</string>
   <string>იცმევდნენ</string>
-  <string>ქჰლ</string>
   <string>თავყრილობას</string>
   <string>სოლომონად</string>
   <string>ანტიკომფორმისტული</string>
@@ -20005,7 +19528,6 @@
   <string>სინედრიონი</string>
   <string>სინედრიონს</string>
   <string>მღვდელმსახურთაგან</string>
-  <string>სყნ</string>
   <string>საწვდომად</string>
   <string>კრეტელთა</string>
   <string>უმთარესად</string>
@@ -21677,7 +21199,6 @@
   <string>დესპოტობა</string>
   <string>დიდმპყრობელის</string>
   <string>გაყოფითი</string>
-  <string>დყს</string>
   <string>დიქტატორად</string>
   <string>დიქტატორივით</string>
   <string>დოქტორანტურაში</string>
@@ -21760,7 +21281,6 @@
   <string>გამოთქმებზე</string>
   <string>ვიანორ</string>
   <string>კორექტორები</string>
-  <string>ჰტტპ</string>
   <string>შეწეულ</string>
   <string>აბრახოს</string>
   <string>აბბრევიატურა</string>
@@ -22492,7 +22012,6 @@
   <string>პიგეონ</string>
   <string>პიროვნებათაგან</string>
   <string>პირომანია</string>
-  <string>პყრ</string>
   <string>წაკიდების</string>
   <string>სწორზედაპირიანი</string>
   <string>გრაციული</string>
@@ -22917,7 +22436,6 @@
   <string>ჭაშნიკ</string>
   <string>გამოშუქება</string>
   <string>ჭიატა</string>
-  <string>გრდმ</string>
   <string>იხადილა</string>
   <string>გრდუვ</string>
   <string>მასლაათობს</string>
@@ -23859,7 +23377,6 @@
   <string>ბალატონი</string>
   <string>უცხოურებისა</string>
   <string>წილადების</string>
-  <string>ბხ</string>
   <string>ნახაზებისთვის</string>
   <string>კაქტუსია</string>
   <string>ეკლებად</string>
@@ -24461,7 +23978,6 @@
   <string>ვიდეოფირზე</string>
   <string>აუდიოჩანაწერს</string>
   <string>გაგვაცნოს</string>
-  <string>ხყ</string>
   <string>მეხუთედია</string>
   <string>ოსტატობაა</string>
   <string>მთიულა</string>
@@ -24596,7 +24112,6 @@
   <string>იზოჰიფსები</string>
   <string>თარაზულად</string>
   <string>სარების</string>
-  <string>ღტგ</string>
   <string>მერიდიანთა</string>
   <string>თეოდოლიტით</string>
   <string>ლარტყას</string>
@@ -24630,8 +24145,6 @@
   <string>დავამაგრებთ</string>
   <string>ალიდადას</string>
   <string>დაკვალვის</string>
-  <string>დტგ</string>
-  <string>ყხ</string>
   <string>პლანიმეტრი</string>
   <string>პლანიმეტრის</string>
   <string>რუკებისა</string>
@@ -24694,13 +24207,11 @@
   <string>დავცენტრეთ</string>
   <string>დავმზირეთ</string>
   <string>ალიდადის</string>
-  <string>ყყ</string>
   <string>ნიველირიდან</string>
   <string>ნიველირს</string>
   <string>გამოთვლიან</string>
   <string>ქორდის</string>
   <string>წნევათა</string>
-  <string>ღრ</string>
   <string>მეტაგალაქტიკებს</string>
   <string>ტრანსვერსალური</string>
   <string>ჭოგრიანი</string>
@@ -24729,7 +24240,6 @@
   <string>ტრაპეციის</string>
   <string>ქვედებულთან</string>
   <string>აზიმუტები</string>
-  <string>შჭ</string>
   <string>რადიუს</string>
   <string>აცდენილნი</string>
   <string>გრადუირების</string>
@@ -24762,7 +24272,6 @@
   <string>დგამები</string>
   <string>უალბათესი</string>
   <string>თეორიულს</string>
-  <string>ხხ</string>
   <string>ფარგის</string>
   <string>დანამზერი</string>
   <string>ჰაბ</string>
@@ -24863,7 +24372,6 @@
   <string>ქანობის</string>
   <string>გამოითვლიან</string>
   <string>თარაზოთი</string>
-  <string>ცმ</string>
   <string>ჩამაგრებულია</string>
   <string>გაყრილია</string>
   <string>ნულპუნქტიდან</string>
@@ -24927,9 +24435,7 @@
   <string>ილეთებში</string>
   <string>ვუმზერთ</string>
   <string>დამზერენ</string>
-  <string>ჭხ</string>
   <string>დავიტანთ</string>
-  <string>გდ</string>
   <string>დავიტანოთ</string>
   <string>ლარტყამდე</string>
   <string>გამოთვლილ</string>
@@ -24950,12 +24456,10 @@
   <string>დაკვალვისათვის</string>
   <string>შეც</string>
   <string>ღერძად</string>
-  <string>რტგ</string>
   <string>ბისექტრისის</string>
   <string>განზავებულები</string>
   <string>ანათვალთა</string>
   <string>ბაბინეს</string>
-  <string>თგ</string>
   <string>ანეროიდში</string>
   <string>ანეროიდისათვის</string>
   <string>ანეროიდს</string>
@@ -24965,12 +24469,9 @@
   <string>ნამრავლთა</string>
   <string>მიმართულებებისათვის</string>
   <string>პლანიმეტრით</string>
-  <string>რდ</string>
   <string>პლანიმეტრს</string>
   <string>სწორკუთხედების</string>
   <string>ჯამად</string>
-  <string>ნფსბც</string>
-  <string>ტფსჰპ</string>
   <string>უპქპჰსბგჯჯტ</string>
   <string>მოსწავლეახალგაზრდობისათვის</string>
   <string>კურუკულუმებსა</string>
@@ -25246,7 +24747,6 @@
   <string>თანხვდენილად</string>
   <string>აღმოსავლეთისაკენაა</string>
   <string>ღცოს</string>
-  <string>ღცტგ</string>
   <string>შეახლოებას</string>
   <string>მერიდიანთან</string>
   <string>კვადრანტებს</string>
@@ -25267,11 +24767,6 @@
   <string>დეკარტმა</string>
   <string>აბსცისების</string>
   <string>აპლიკატების</string>
-  <string>ხზყ</string>
-  <string>ყხზ</string>
-  <string>ყზხ</string>
-  <string>ზხყ</string>
-  <string>ზყხ</string>
   <string>ოქტანტები</string>
   <string>ეკვატორით</string>
   <string>კოორდინატებისათვის</string>
@@ -25398,7 +24893,6 @@
   <string>საგნამდე</string>
   <string>რადიანებში</string>
   <string>დავმზერდით</string>
-  <string>ფტგ</string>
   <string>გამოსასახავად</string>
   <string>ჰფარავდეს</string>
   <string>დათვლიან</string>
@@ -25574,7 +25068,6 @@
   <string>გავათანაბროთ</string>
   <string>დავკიდებთ</string>
   <string>ლიმბისა</string>
-  <string>ჩჩ</string>
   <string>შესაბამი</string>
   <string>ექსცენტრისიტეტის</string>
   <string>აღმატების</string>
@@ -25625,12 +25118,8 @@
   <string>ზოლდნერის</string>
   <string>კოორდინატებთან</string>
   <string>განისაზრვროს</string>
-  <string>ხხხ</string>
   <string>გავაწონასწორეთ</string>
   <string>გაგვიწონასწორებია</string>
-  <string>ჭყ</string>
-  <string>ჭჭ</string>
-  <string>ტგრ</string>
   <string>განაზომია</string>
   <string>გვერდისათვის</string>
   <string>მეტრისათვის</string>
@@ -25650,13 +25139,10 @@
   <string>გეომეტრიულსა</string>
   <string>ბარომეტრულს</string>
   <string>დავცენტრავთ</string>
-  <string>ჰრ</string>
   <string>გაექვსკეცებულ</string>
   <string>სიმრუდისა</string>
-  <string>თჩ</string>
   <string>ფორმულასაც</string>
   <string>გაზომილია</string>
-  <string>ჩტ</string>
   <string>პროექციასთან</string>
   <string>მართობულობით</string>
   <string>ლარტყებს</string>
@@ -25677,7 +25163,6 @@
   <string>ეგზამენატორით</string>
   <string>ტყდებოდეს</string>
   <string>დანამზერზე</string>
-  <string>ჰჰ</string>
   <string>სხვაობებისა</string>
   <string>ნიველირით</string>
   <string>ნიველირებისათვის</string>
@@ -25703,7 +25188,6 @@
   <string>ხაზებითაც</string>
   <string>ვუზრუნველვყოთ</string>
   <string>ჰორიზონტების</string>
-  <string>ჰფ</string>
   <string>შედგენითა</string>
   <string>გამოხაზვით</string>
   <string>ამოვიწეროთ</string>
@@ -25733,7 +25217,6 @@
   <string>მოვხაზოთ</string>
   <string>ხერხებთან</string>
   <string>სწორებისა</string>
-  <string>რრ</string>
   <string>შევატრიალებთ</string>
   <string>ტანგენსებს</string>
   <string>სერპანტინის</string>
@@ -25801,7 +25284,6 @@
   <string>წვეტანას</string>
   <string>ჩაიდგმება</string>
   <string>ფართობთა</string>
-  <string>რღ</string>
   <string>პლანიმეტრმა</string>
   <string>შემომვლელი</string>
   <string>ანათვლისას</string>
@@ -25834,7 +25316,6 @@
   <string>წვეროსთან</string>
   <string>კათეტია</string>
   <string>კათეტზე</string>
-  <string>სსდ</string>
   <string>უდიდესს</string>
   <string>ათეულზე</string>
   <string>აგდებისას</string>
@@ -25844,8 +25325,6 @@
   <string>განზომილებებია</string>
   <string>კოორდინატზე</string>
   <string>ავტოკალმების</string>
-  <string>ნხ</string>
-  <string>ხზ</string>
   <string>გათანაბრდება</string>
   <string>ფრიადოსანია</string>
   <string>გივიმ</string>
@@ -25863,7 +25342,6 @@
   <string>ავტომობილსა</string>
   <string>კამათელზე</string>
   <string>ნაშთში</string>
-  <string>ყზ</string>
   <string>ამოხსენით</string>
   <string>ნაძვია</string>
   <string>ვანომ</string>
@@ -25872,7 +25350,6 @@
   <string>თავდაპირველთან</string>
   <string>დაგვაკლდება</string>
   <string>გაძვირებამდე</string>
-  <string>მყ</string>
   <string>ჩამოწეროს</string>
   <string>კუპიურების</string>
   <string>გადასანომრად</string>
@@ -25997,7 +25474,6 @@
   <string>შუაწერტილამდე</string>
   <string>ბლაგვია</string>
   <string>ბლაგკუთხაა</string>
-  <string>ღშ</string>
   <string>პარალელოგრამს</string>
   <string>დიაგონალსა</string>
   <string>მიდგმით</string>
@@ -26027,7 +25503,6 @@
   <string>ავტოგასამართმა</string>
   <string>ავტოგასამართ</string>
   <string>გამოკლებისას</string>
-  <string>პქ</string>
   <string>ნეკამ</string>
   <string>ასაკების</string>
   <string>გამოსახავდეს</string>
@@ -26072,8 +25547,6 @@
   <string>მანდარინისგან</string>
   <string>ჩენპიონატში</string>
   <string>ათწილადის</string>
-  <string>ყმ</string>
-  <string>ბხზ</string>
   <string>ახყ</string>
   <string>მეტობის</string>
   <string>უტოლობებს</string>
@@ -26302,12 +25775,8 @@
   <string>მაკლების</string>
   <string>საკლების</string>
   <string>კოლომეტრს</string>
-  <string>ხმნ</string>
   <string>მუსიკოსებისაგან</string>
   <string>მუსიკოსების</string>
-  <string>მქ</string>
-  <string>ნქ</string>
-  <string>მნპ</string>
   <string>კაკალზე</string>
   <string>საპრემიო</string>
   <string>გაუნაწილეს</string>
@@ -26397,8 +25866,6 @@
   <string>კვადრატიდან</string>
   <string>ფრაგნული</string>
   <string>იანით</string>
-  <string>ნხყ</string>
-  <string>ნყ</string>
   <string>ზარიძის</string>
   <string>დამატებითობის</string>
   <string>განუზღვრელობის</string>
@@ -26934,7 +26401,6 @@
   <string>ამოვხსენით</string>
   <string>შრედიგენის</string>
   <string>თვითგანსაზღვრის</string>
-  <string>დპ</string>
   <string>წინაღმდეგობა</string>
   <string>არაკომუტატიურობასა</string>
   <string>წინააღმდეგობიდან</string>
@@ -29190,7 +28656,6 @@
   <string>ღუტიაზე</string>
   <string>სინო</string>
   <string>ულვაშას</string>
-  <string>ნწ</string>
   <string>წამოაქციეს</string>
   <string>მარანთან</string>
   <string>დასაგემოვნებლად</string>
@@ -32432,7 +31897,6 @@
   <string>გადაგვარჩინოს</string>
   <string>ჩრიტიცისმ</string>
   <string>ვოლს</string>
-  <string>ფფ</string>
   <string>ჟანრების</string>
   <string>შჰაკესპეარე</string>
   <string>ჩომპარატივე</string>
@@ -32459,7 +31923,6 @@
   <string>თრადიტიონ</string>
   <string>ჭალზელ</string>
   <string>ჩრიტიცს</string>
-  <string>ღჰყტჰმ</string>
   <string>მეტაფორის</string>
   <string>მეტაფორას</string>
   <string>შირ</string>
@@ -32499,7 +31962,6 @@
   <string>ნეუერენ</string>
   <string>თატე</string>
   <string>ჟაკობსონ</string>
-  <string>ხვ</string>
   <string>ჭელტანსცჰაუუნგ</string>
   <string>სეს</string>
   <string>სტორია</string>
@@ -32515,7 +31977,6 @@
   <string>ღომანისცჰე</string>
   <string>დისცუსსიონ</string>
   <string>შცჰრიფტენ</string>
-  <string>ხხვ</string>
   <string>ჭორდს</string>
   <string>ღუდოლფ</string>
   <string>ესპეციალლყ</string>
@@ -32548,7 +32009,6 @@
   <string>თჰომპსონ</string>
   <string>რომანისცჰენ</string>
   <string>ბოოკ</string>
-  <string>ხლ</string>
   <string>ხხიიი</string>
   <string>ღომანტიცისმ</string>
   <string>თჰიბაუდეტ</string>
@@ -32605,7 +32065,6 @@
   <string>ვერგლეიცჰენდენ</string>
   <string>ცომმე</string>
   <string>ღჰყმე</string>
-  <string>ჭყლდ</string>
   <string>ლიტერარყ</string>
   <string>ლისტ</string>
   <string>ღეასონ</string>
@@ -33473,7 +32932,6 @@
   <string>შცჰილლერ</string>
   <string>ჩჰანსონ</string>
   <string>ჩამპიონ</string>
-  <string>შკყ</string>
   <string>ავეც</string>
   <string>ფულლერ</string>
   <string>ეხამპლეს</string>
@@ -33554,14 +33012,12 @@
   <string>ჭჰიტმორე</string>
   <string>საყს</string>
   <string>ღომანტიცს</string>
-  <string>ცსპ</string>
   <string>ჰელდ</string>
   <string>ნატურე</string>
   <string>ლიმიტეს</string>
   <string>სტუდიედ</string>
   <string>ბრილლიანტ</string>
   <string>პოპულარ</string>
-  <string>ხხნ</string>
   <string>ღეიდ</string>
   <string>ვილიამსონი</string>
   <string>ღევალუატიონ</string>
@@ -33606,7 +33062,6 @@
   <string>თეხტკრიტიკ</string>
   <string>ტეხტუელლე</string>
   <string>ჭიტკოწსკი</string>
-  <string>ლხხვ</string>
   <string>ჭრიტერ</string>
   <string>შაცჰს</string>
   <string>ვუე</string>
@@ -33616,7 +33071,6 @@
   <string>არტს</string>
   <string>ჩომმიტტეე</string>
   <string>გეისტიგენ</string>
-  <string>ხვნ</string>
   <string>ღუდლერ</string>
   <string>დეუტსცჰერ</string>
   <string>ნეუნზეჰნტენ</string>
@@ -33629,7 +33083,6 @@
   <string>შაყცე</string>
   <string>ცლასსიქუე</string>
   <string>შყმბოლისტ</string>
-  <string>ვნ</string>
   <string>ჩაილლოის</string>
   <string>ჭაყნე</string>
   <string>ჭერტუნგ</string>
@@ -35809,7 +35262,6 @@
   <string>წოოდს</string>
   <string>ევენინგ</string>
   <string>სპრეად</string>
-  <string>სკყ</string>
   <string>პატიენტ</string>
   <string>ეტჰერიზედ</string>
   <string>პურისტულ</string>
@@ -36731,7 +36183,6 @@
   <string>შტეინტჰალ</string>
   <string>ცომედიე</string>
   <string>ლიტერატურებზე</string>
-  <string>ტხვ</string>
   <string>ალტგერმანისცჰე</string>
   <string>ჩიზევსკყ</string>
   <string>ფავოურს</string>
@@ -36783,7 +36234,6 @@
   <string>ცლაიმს</string>
   <string>ტიტლეს</string>
   <string>აბოუტ</string>
-  <string>ცცხლვ</string>
   <string>ჩჰატტერტონ</string>
   <string>თყრწჰიტტ</string>
   <string>სუპპოსედ</string>
@@ -36924,16 +36374,13 @@
   <string>თრაგედყ</string>
   <string>თრაჰარდ</string>
   <string>შკარდ</string>
-  <string>ხც</string>
   <string>ჩოუსინე</string>
-  <string>ცჰ</string>
   <string>ჩოუნტ</string>
   <string>დრეი</string>
   <string>შყსტემე</string>
   <string>ერსტენ</string>
   <string>მოგვიანებითი</string>
   <string>პჰილოსოპჰისცჰენ</string>
-  <string>ვმ</string>
   <string>ჭელტანსცჰაუუნგენ</string>
   <string>თყპისცჰე</string>
   <string>ჰაფტ</string>
@@ -37182,7 +36629,6 @@
   <string>გულიხმობს</string>
   <string>ექსპლიციტური</string>
   <string>მივმართავათ</string>
-  <string>ჩჰ</string>
   <string>მემორანდუმიდან</string>
   <string>დასასრულში</string>
   <string>მემორანდუმში</string>
@@ -37196,8 +36642,6 @@
   <string>შტილფორმენ</string>
   <string>პჰრასე</string>
   <string>აპპეარს</string>
-  <string>ლხვ</string>
-  <string>ჩჰს</string>
   <string>ლიტერაისცჰენ</string>
   <string>ავოიდს</string>
   <string>პოსიტივისმ</string>
@@ -37478,7 +36922,6 @@
   <string>ჭესტერნ</string>
   <string>ჟასპერს</string>
   <string>ანგეწანდტენ</string>
-  <string>ხხვნ</string>
   <string>ჩლარენცე</string>
   <string>პსყცჰიატრისცჰერ</string>
   <string>ღანკ</string>
@@ -37765,7 +37208,6 @@
   <string>რეტოურს</string>
   <string>ლანგუეს</string>
   <string>წისსენსცჰაფტლიცჰენ</string>
-  <string>ლხხ</string>
   <string>დეპუის</string>
   <string>ბულლეტინ</string>
   <string>თეესინგ</string>
@@ -37814,7 +37256,6 @@
   <string>შოზიალწისსენსცჰაფტ</string>
   <string>შოზიალპოლიტიკ</string>
   <string>ჭერტე</string>
-  <string>დცრ</string>
   <string>შტოატ</string>
   <string>ღიეზლერ</string>
   <string>ჰისტორისცჰცნ</string>
@@ -43046,7 +42487,6 @@
   <string>შემოკვდომია</string>
   <string>მატანში</string>
   <string>ჯვარითურთ</string>
-  <string>ხლვ</string>
   <string>შურისმგებელთაგან</string>
   <string>შეუვარდებიან</string>
   <string>მსხნელს</string>
@@ -43334,7 +42774,6 @@
   <string>ეპითეტებშია</string>
   <string>გაკვრივებული</string>
   <string>გამოძახილ</string>
-  <string>სვ</string>
   <string>ულუსითა</string>
   <string>საქრისტიანოთა</string>
   <string>ატყუევებდეს</string>
@@ -44259,7 +43698,6 @@
   <string>ზოვის</string>
   <string>კლდეზეით</string>
   <string>თასებიც</string>
-  <string>რვ</string>
   <string>მკადრეებ</string>
   <string>დასაბრძანებლად</string>
   <string>გადაიფენს</string>
@@ -44302,7 +43740,6 @@
   <string>გადაინაცვლოს</string>
   <string>საზარეზე</string>
   <string>ზანზალაკია</string>
-  <string>ხცვ</string>
   <string>არსობს</string>
   <string>ჩვეულებებში</string>
   <string>ქმედებებში</string>
@@ -44319,7 +43756,6 @@
   <string>ხორციელთაგან</string>
   <string>ხცვი</string>
   <string>აგირჩია</string>
-  <string>რჯ</string>
   <string>უგერიებს</string>
   <string>ხსენებულია</string>
   <string>მაცხოვარნი</string>
@@ -44790,7 +44226,6 @@
   <string>მსხვერპლშეწირვად</string>
   <string>წარხოცოს</string>
   <string>განათლულია</string>
-  <string>ცხვ</string>
   <string>ადამიანობაზე</string>
   <string>მიყიდული</string>
   <string>მურმანისა</string>
@@ -44939,7 +44374,6 @@
   <string>მთაწმინდათა</string>
   <string>ცაბაურთელია</string>
   <string>მთავარმოწამეზე</string>
-  <string>ცხხ</string>
   <string>მიუკარებელია</string>
   <string>აქითაც</string>
   <string>ნასაყდრალებს</string>
@@ -45058,7 +44492,6 @@
   <string>აღძრულნი</string>
   <string>ატყორცნილნი</string>
   <string>განსაცდელია</string>
-  <string>ცხხვ</string>
   <string>გამოუქროლებს</string>
   <string>ჰამინგჯა</string>
   <string>ისლანდიურ</string>
@@ -45369,12 +44802,10 @@
   <string>მისაწვდომს</string>
   <string>ადეკვატია</string>
   <string>ებრაელური</string>
-  <string>ნზრ</string>
   <string>კონსეკრაციის</string>
   <string>ასაკიდანვე</string>
   <string>ნაზოროველნი</string>
   <string>დასაზღვრული</string>
-  <string>ცხლ</string>
   <string>ამარჯვებინებს</string>
   <string>პატიმრობისა</string>
   <string>გარდმოდის</string>
@@ -45492,7 +44923,6 @@
   <string>დაჭერილის</string>
   <string>ხორციელისა</string>
   <string>შეუწონადი</string>
-  <string>ცხლვ</string>
   <string>ტავტოლოგიურად</string>
   <string>გაბეჩავდება</string>
   <string>მკითხავეებთან</string>
@@ -45598,7 +45028,6 @@
   <string>სტექურას</string>
   <string>ხელისხლება</string>
   <string>შეიბმის</string>
-  <string>ცლ</string>
   <string>მიგვანიშნოს</string>
   <string>დედროვანში</string>
   <string>მოხუცებულთ</string>
@@ -45709,7 +45138,6 @@
   <string>იყვენითავ</string>
   <string>სადაღ</string>
   <string>ჩამამეყარ</string>
-  <string>ცლვ</string>
   <string>მქონდ</string>
   <string>ვლაგმევდი</string>
   <string>ვახვიებდი</string>
@@ -45856,7 +45284,6 @@
   <string>მნიშვნელოვნების</string>
   <string>ეტევიან</string>
   <string>შემარჩეველი</string>
-  <string>ცლხ</string>
   <string>აარსებენ</string>
   <string>რჯულიანთა</string>
   <string>ზურაბისა</string>
@@ -45974,7 +45401,6 @@
   <string>ასურათებს</string>
   <string>უგმირონ</string>
   <string>შეაკვდენ</string>
-  <string>ცლხვ</string>
   <string>შუაგულისადმი</string>
   <string>მომნუსხავი</string>
   <string>ანტეოსივით</string>
@@ -46087,7 +45513,6 @@
   <string>დასაჭრელია</string>
   <string>მაიყვანეთ</string>
   <string>დასაკვლელია</string>
-  <string>ცლხხ</string>
   <string>საკვირაოს</string>
   <string>უსურმაგ</string>
   <string>ანტიმსხვერპლისა</string>
@@ -46202,7 +45627,6 @@
   <string>ჩასახვით</string>
   <string>აფსართა</string>
   <string>აქვინელს</string>
-  <string>ცლხხვ</string>
   <string>რჩეულობაზე</string>
   <string>წილნაყარობის</string>
   <string>სამეფოებში</string>
@@ -47801,7 +47225,6 @@
   <string>კრიჭი</string>
   <string>ბუჰბუჰი</string>
   <string>კოკოს</string>
-  <string>ჰხმ</string>
   <string>წადიგაიგეში</string>
   <string>წადიგაიგე</string>
   <string>ოხოხომ</string>
@@ -47825,7 +47248,6 @@
   <string>შეჰყროყინა</string>
   <string>ციცამ</string>
   <string>ბუხარმა</string>
-  <string>ღრრ</string>
   <string>თამილას</string>
   <string>ჩაიკრუტუნა</string>
   <string>ხატიამ</string>
@@ -47878,7 +47300,6 @@
   <string>ბეკეკა</string>
   <string>ტიტიკოს</string>
   <string>ცუცქნა</string>
-  <string>ფჩხ</string>
   <string>დაიზმუილა</string>
   <string>ხორთუმით</string>
   <string>ცხრათავიანმა</string>
@@ -47949,7 +47370,6 @@
   <string>ბაბუკა</string>
   <string>გაიბუსა</string>
   <string>კუდრაჭებო</string>
-  <string>ღვ</string>
   <string>კამფეტების</string>
   <string>ბრახ</string>
   <string>შეგსანსლო</string>
@@ -48559,7 +47979,6 @@
   <string>ტირილისათვის</string>
   <string>ლატოა</string>
   <string>დეპესა</string>
-  <string>ღღღ</string>
   <string>ამირიოთ</string>
   <string>ჩურჩხელებსაც</string>
   <string>დააკაკუნესო</string>
@@ -48805,7 +48224,6 @@
   <string>გეთამაშები</string>
   <string>გავამხიარულებ</string>
   <string>გამოტყაპუნდა</string>
-  <string>ღტღტ</string>
   <string>მოგეჩვენები</string>
   <string>გამიბრაზდება</string>
   <string>ჩაისხლიპინა</string>
